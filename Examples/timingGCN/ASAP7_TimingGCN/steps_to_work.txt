@@ -1,0 +1,20 @@
+
+conda create -n andlai_dgl python=3.11
+
+conda activate andlai_dgl
+
+# Objective : install dgl
+
+pip install numpy
+pip install pandas
+pip3 install torch --index-url https://download.pytorch.org/whl/cu118
+
+# If you have installed dgl-cuXX package, please uninstall it first.
+pip install  dgl -f https://data.dgl.ai/wheels/torch-2.3/cu118/repo.html
+
+pip install pyyaml
+pip install pydantic
+
+# TimingGCN
+pip install -U scikit-learn
+

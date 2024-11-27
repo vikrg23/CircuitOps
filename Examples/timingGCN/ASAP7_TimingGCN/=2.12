@@ -1,0 +1,6 @@
+Looking in indexes: https://urm.nvidia.com/artifactory/api/pypi/nv-shared-pypi/simple, https://pypi.ngc.nvidia.com
+Collecting pybind11
+  Downloading https://urm.nvidia.com/artifactory/api/pypi/nv-shared-pypi/packages/packages/84/fb/1a249de406daf2b4ebd2d714b739e8519034617daec085e3833c1a3ed57c/pybind11-2.13.1-py3-none-any.whl (238 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 238.8/238.8 kB 18.6 MB/s eta 0:00:00
+Installing collected packages: pybind11
+Successfully installed pybind11-2.13.1

@@ -1,3 +1,6 @@
 [submodule "src/OpenROAD"]
 	path = src/OpenROAD
 	url = https://github.com/The-OpenROAD-Project/OpenROAD
+[submodule "Examples/timingGCN/0708_Graph_Datasets_Construction/trial/libertyParser"]
+	path = Examples/timingGCN/0708_Graph_Datasets_Construction/trial/libertyParser
+	url = https://github.com/liyanqing1987/libertyParser
